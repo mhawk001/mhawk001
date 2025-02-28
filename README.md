@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhawk001
+- 👋 Hi, I’m Mashrooz Haque
 - 👀 I’m interested in ... ML and AI
 - 🌱 I’m currently learning ... Python and Data structures
 - 💞️ I’m looking to collaborate on ... anything fun and interesting
